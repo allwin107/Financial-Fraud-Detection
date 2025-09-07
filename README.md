@@ -20,7 +20,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn xgboos
 ```
 
 ## Installation
-1. Clone repo: `git clone <repo-url>`.
+1. Clone repo: `git clone https://github.com/allwin107/Financial-Fraud-Detection.git`.
 2. Install dependencies: `pip install -r requirements.txt` (create if needed).
 3. Run in Jupyter: `jupyter notebook Fraud_Transaction_Prediction_for_Financial_Companies.ipynb`.
 
